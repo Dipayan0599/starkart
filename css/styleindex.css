@@ -1,0 +1,164 @@
+
+.nav-brand{
+	background: steelblue;
+	color: white;
+	width: 100%;
+	height: 50px;
+	margin-top: 0;
+}
+.navbar-brand:hover{
+	color: white ;
+	font-weight: 700;
+}
+#logo{
+	width:30px;
+	border-radius: 50%;
+}
+.navbar-brand{
+	color: white;
+}
+.search{
+  margin: 0;
+}
+
+hr{
+	border: 1px white;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.navbar-nav:hover{
+	
+}
+.btn{
+	outline: none;
+}
+.content-one{
+	background: url(https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/matheus-ferrero-334418-unsplash.jpg);
+	background-position: center;
+	text-align: center;
+	padding-top: 13%;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+}
+.content-two{
+	background: url(https://static.peachmode.com/media/images/product/43117/base/1577445577_1_ARIT-CLAIRE-03-Green-Viscose-Kurti-PEACHMODE.jpg);
+	background-position: top;
+	text-align: center;
+	padding-top: 13%;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+}
+.content-three{
+	background: url(https://fscl01.fonpit.de/userfiles/7640001/image/best-high-end-smartphones/AndroidPIT-Best-High-End-Smartphones-Hero-1.jpg);
+	background-position: top;
+	text-align: center;
+	padding-top: 13%;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+}
+.jackets{
+	background: url(https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+	margin-bottom: 20px;
+}	
+.perfumes{
+	background: url(https://images.unsplash.com/photo-1523293182086-7651a899d37f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+	margin-bottom: 20px;
+}
+.mobiles{
+	background: url(https://technabob.com/blog/wp-content/uploads/2013/05/sony_xperia_zr_waterproof_smartphone.jpg);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+	margin-bottom: 20px;
+}
+
+.lastline{
+	background-color: #FFF8DC;
+	height:50px;
+	word-spacing: 2px;
+}
+.shopping{
+	background: #0F354B ;
+	height: auto;
+	width:100%;
+	padding: 10px 0;
+}
+
+.copyright{
+	color:#28627F ;
+}
+.customer{
+	padding-top: 20px;
+}
+.h1{
+	color: white;
+	font-size: 100px;
+	font-family: serif;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+	color: white;
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+.h4{
+	color: #BADFF4;
+	font-size: 15px;
+}
+.h5{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 8px;
+}
+.h6{
+	color: #F4F8FA;
+	font-size: 10px;
+}
+.h4:hover{
+	font-weight: 700;
+	color: #ffffff;
+}
+ .h6:hover{
+ 	color: #41E7F5 ;
+ 	font-weight: 700;
+ 	text-decoration: underline;
+ }
+  .deals-day{
+ 	background: #7F7FD5;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ }
+ .deals-day-img{
+ 	margin: 15px 10px;
+ }
+ #deals-day-text{
+ 	color: white;
+ 	font-family: 'Satisfy', cursive;
+ 	font-size: 50px;
+ 	text-align: center;
+ 	margin: 10% 0;
+ 	 text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+ }
